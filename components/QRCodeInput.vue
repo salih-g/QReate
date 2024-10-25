@@ -6,6 +6,7 @@
       :rows="3"
       placeholder="Enter text, URL, contact info, or anything you'd like to turn into a QR code"
       class="w-full"
+      color="purple"
     />
   </UFormGroup>
 </template>

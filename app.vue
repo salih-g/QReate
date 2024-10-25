@@ -17,7 +17,8 @@
     </main>
 
     <footer class="py-6 text-center text-sm text-gray-500">
-      Made with ❤️ using Nuxt.js
+      Made with ❤️ using Nuxt.js by
+      <a href="https://salihg.com/">Salih G.</a>
     </footer>
   </div>
 </template>
